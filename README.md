@@ -1,8 +1,9 @@
-# ⚔️ AI TOP 100 — Battle Simulator
+# AI TOP 100 — Battle Simulator
+링크:https://challenge.aitop100.org/
 
-> **AI 활용 능력 대회** | 유닛의 초기 배치 정보만으로 전투 승패를 예측하는 머신러닝 프로젝트
 
-## 📋 대회 개요
+
+## 📋 문제 개요
 
 신규 전투 시뮬레이션 게임의 밸런스 패치를 위해, 실제 전투를 실행하지 않고 **유닛의 종류(type)와 2D 좌표(x, y)만으로 승패를 예측**하는 ML 모델을 개발합니다.
 
